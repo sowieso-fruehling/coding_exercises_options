@@ -27,8 +27,8 @@ For the image upload please provide:
 
 
 ### Server side
-The server side can be in whatever language you are strong with.  
-We mainly use js, java, and a little bit of php and go, so please try to use one of them that you're stronger with.
+The server side can be in either Java or Kotlin
+If you opt for a db approach, store in whatever storage you see fit.
 
 Don't worry too much about how this stuff should be stored and served properly on the server (such as s3 buckets, and CDNs etc).
 It's fine to store and serve the images locally.

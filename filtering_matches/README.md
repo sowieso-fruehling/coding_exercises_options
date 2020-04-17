@@ -12,16 +12,15 @@ Please, however, ensure both the client and server side is *well tested* and *cl
 | Has photo | Boolean yes / no filter |
 | In contact | Boolean yes / no filter |
 | Favourite | Boolean yes / no filter |
-| Compatibility Score | range: from 1% to 99% |
-| age | range: from 18 years old until > 95 years old |
-| height | range: from 135cm to > 210cm |
-| distance in km | single selection: lower bound < 30 km, upper bound > 300 km | 
+| Compatibility Score | range: user should be allowed to set any range from 1% to 99% |
+| age | range: from 18 years old to 95 years old |
+| height | range: from 135cm to 210cm |
+| distance in km | single selection: user should be allowed to set any value from 30km to 300 km | 
 
 
 ### Server side
-
-The server side can be in whatever language you are strong with.  
-We mainly use js, java, and a little bit of php and go, so please try to use one of them that you're stronger with.
+The server side can be in either Java or Kotlin
+If you opt for a db approach, store in whatever storage you see fit.
 
 There is a small json file provided [database/matches.json](./database/matches.json).  
 Please use this data as the basis for your service.

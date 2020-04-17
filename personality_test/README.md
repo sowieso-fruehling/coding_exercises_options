@@ -28,9 +28,8 @@ You can either submit the answers one by one when they are being answered or sen
 
 
 ### Server side
-
-The server side can be in whatever language you are strong with.  
-We mainly use js, java, and a little bit of php and go, so please try to use one of them that you're stronger with.
+The server side can be in either Java or Kotlin
+If you opt for a db approach, store in whatever storage you see fit.
 
 There is a small json file provided [database/personality_test.json](./database/personality_test.json) for all the questions.  
 Please use this data as the basis for your service.

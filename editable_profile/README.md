@@ -13,8 +13,7 @@ Completely up to you what frameworks; on our own code we use angular 2 or react 
 For the image upload, a file picker is fine
 
 ### Server side
-The server side can be in whatever language you are strong with.  
-We mainly use js, java, and a little bit of php and go, so please try to use one of them that you're stronger with.
+The server side can be in either Java or Kotlin
 If you opt for a db approach, store in whatever storage you see fit.
 
 
